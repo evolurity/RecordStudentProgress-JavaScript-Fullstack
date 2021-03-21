@@ -1,4 +1,5 @@
-Atao
+<h1>Atao</h1>
+<br/>
 Почта для связи: exciting.opportunities8@gmail.com
 
 Ресурс для ведения учета успеваемости студентов ФКН
