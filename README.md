@@ -1,6 +1,6 @@
 <h1>Atao</h1>
 <br/>
-Почта для связи: exciting.opportunities8@gmail.com
+Почта для связи: <a href="exciting.opportunities8@gmail.com">exciting.opportunities8@gmail.com<a/>
 
 Ресурс для ведения учета успеваемости студентов ФКН
 • woodufx – Лиманский Дмитрий, группа 2.2
