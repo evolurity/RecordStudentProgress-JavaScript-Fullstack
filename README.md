@@ -1,11 +1,11 @@
 <h1>Atao</h1>
 <br/>
-Почта для связи: <a href="exciting.opportunities8@gmail.com">exciting.opportunities8@gmail.com<a/>
+Почта для связи: exciting.opportunities8@gmail.com
 
-Ресурс для ведения учета успеваемости студентов ФКН
-• woodufx – Лиманский Дмитрий, группа 2.2
-• exciting-opportunities - Неровный Ян, группа 2.2
-• # – Смородинова Софья, группа 2.2
+<h3>Ресурс для ведения учета успеваемости студентов ФКН<h3/>
+<a href="https://github.com/woodufx">• woodufx<a/> – Лиманский Дмитрий, группа 2.2
+<a href="https://github.com/exciting-opportunities">• exciting-opportunities<a/> - Неровный Ян, группа 2.2
+<a href="https://github.com/smorodinovass">• smorodinovass<a/> – Смородинова Софья, группа 2.2
 
 Сервисы для работы
 • Trello
