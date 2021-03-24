@@ -9,10 +9,11 @@
 <br/>
 • <a href="https://github.com/smorodinovass">smorodinovass<a/> – Смородинова Софья, группа 2.2
 <br/>
-   <br/>
+<br/>
 Сервисы для работы
-  <br/>
+<br/>
    
 • <a href="https://miro.com/app/board/o9J_lNx0O6E=/">Miro<a/>
+<br/>
 • <a href="https://trello.com/b/IJLMYNFk/csf-atao">Trello<a/>
 
