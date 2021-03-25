@@ -19,3 +19,6 @@
 
    <h2>Документация<h2/>
 
+• <a href="https://miro.com/app/board/o9J_lNx0O6E=/">Техническое задание<a/>
+<br/>
+• <a href="https://trello.com/b/IJLMYNFk/csf-atao">Курсовой проект<a/>
