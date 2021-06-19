@@ -23,3 +23,5 @@
 <br/>
 
 • <a href="https://github.com/exciting-opportunities/Atao/blob/3bada39a784b3044a0c0b3da77696e1e1c5a1ef4/Documents/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf">Курсовой проект<a/>
+
+• <a href="https://drive.google.com/file/d/1asAhPKTx7DcHPOC_dCV0hxw5cTuU1wym/view?usp=sharing">Демо-видео проекта<a/>
