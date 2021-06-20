@@ -12,10 +12,11 @@
 <br/>
 <h2>Сервисы для работы<h2/>
 <br/>
-   
 • <a href="https://miro.com/app/board/o9J_lNx0O6E=/">Miro<a/>
 <br/>
 • <a href="https://trello.com/b/IJLMYNFk/csf-atao">Trello<a/>
+<br/>
+• <a href="https://metrika.yandex.ru/dashboard?group=week&period=year&id=81295342">Метрика<a/>
 
    <h2>Документация<h2/>
 
