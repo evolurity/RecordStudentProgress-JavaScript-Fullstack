@@ -29,4 +29,4 @@
 
       
 • <a href="https://github.com/exciting-opportunities/Atao/blob/main/Documents/Отчетный%20документ%20АТАО.pdf">Отчетный документ<a/>
-• <a href="https://github.com/exciting-opportunities/Atao/blob/main/Documents/Отчетный%20документ%20АТАО.pdf">Видео презентация<a/>
+• <a href="https://drive.google.com/file/d/1ZKDXMgbPPaY0Q4hEi1HTIrpp1iZ4HMPq/view?usp=sharing">Предварительная защита проекта<a/>
