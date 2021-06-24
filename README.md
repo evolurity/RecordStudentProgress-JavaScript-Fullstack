@@ -9,6 +9,7 @@
 <br/>
 • <a href="https://github.com/smorodinovass">smorodinovass<a/> – Смородинова Софья, группа 2.2
 <br/>
+   • <a href="http://atao.edu.xsph.ru/">Atao<a/>
 <br/>
 <h2>Сервисы для работы<h2/>
 <br/>
